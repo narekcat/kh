@@ -1,0 +1,33 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "kh"=".\kh.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {6262D3A0-531B-11CF-91F6-C2863C385E30}
+    {CB4A96A8-611E-45DC-A51B-EEA0A7FDEE9E}
+    {AE800FE6-2906-4465-A547-90BBFCD69617}
+    {9FB6346E-60A4-4EFE-AD74-53DB3D2EB57D}
+}}}
+
+###############################################################################
+
